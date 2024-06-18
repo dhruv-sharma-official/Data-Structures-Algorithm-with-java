@@ -1,3 +1,5 @@
+// find out second largest number from an array
+
 public class secondlargestelement{
 	public static void main(String[] args) {
 		

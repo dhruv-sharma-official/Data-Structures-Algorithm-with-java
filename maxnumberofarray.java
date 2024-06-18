@@ -1,3 +1,5 @@
+// find out max number from an array
+
 public class maxnumberofarray{
 	public static void main(String[] args) {
 		
